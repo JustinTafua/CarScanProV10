@@ -1,0 +1,7 @@
+{
+  "parts": [
+    { "name": "Amazon Auto Parts", "url": "https://www.amazon.com/auto-parts/?tag=YOUR_TAG" },
+    { "name": "eBay Motors", "url": "https://www.ebay.com/b/Auto-Parts-and-Vehicles/6000/bn_1865334?campid=YOUR_ID" },
+    { "name": "RockAuto", "url": "https://www.rockauto.com/?ref=YOUR_REF" }
+  ]
+}
